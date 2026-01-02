@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Archisman Chakraborty<br><br>I’m a Computer Science & Engineering undergraduate at the University of Engineering and Management, Kolkata, with a strong interest in software development, AI, and cloud technologies. I enjoy building practical projects, learning new tools, and improving my problem-solving skills through hands-on work.<br><br>I’m currently looking for internship or entry-level opportunities where I can contribute, learn from real-world systems, and grow as an engineer.
+👋 Hi, I’m Archisman Chakraborty<br><br>I’m a Computer Science & Engineering undergraduate at the University of Engineering and Management, Kolkata, with a strong interest in software development, AI, and cloud technologies. I enjoy building practical projects, learning new tools, and improving my problem-solving skills through hands-on work.<br><br>I’m currently looking for an internship or entry-level opportunities where I can contribute, learn from real-world systems, and grow as an engineer.
 
 
 ## 🌐 Socials:
